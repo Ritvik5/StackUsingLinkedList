@@ -9,6 +9,7 @@
             linkListStack.Push(30);
             linkListStack.Push(56);
             linkListStack.Display();
+            linkListStack.IsEmpty();
         }
     }
 }
